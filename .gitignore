@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+.vscode/
+.idea/
+src/services/api.ts.backup
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Local archives and review files
+*.zip
+
+# Temporary working directories
+work/
