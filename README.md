@@ -1,7 +1,5 @@
 # EventFlow — Event-Driven Order Processing System
 
-# EventFlow — Event-Driven Order Processing System
-
 ## 🚀 Live Demo
 
 https://d2np3ip95xp6x3.cloudfront.net/
