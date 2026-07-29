@@ -1,5 +1,11 @@
 # EventFlow — Event-Driven Order Processing System
 
+# EventFlow — Event-Driven Order Processing System
+
+## 🚀 Live Demo
+
+https://d2np3ip95xp6x3.cloudfront.net/
+
 EventFlow is a production-style React frontend that demonstrates how a serverless AWS order platform accepts work synchronously and processes it asynchronously. It is designed as an AWS Solutions Architect portfolio project: the interface makes SNS fan-out, SQS buffering, independent Lambda consumers, retries, dead-letter queues, eventual consistency, and CloudWatch observability visible and easy to discuss.
 
 > Frontend only: this repository does not create AWS resources, invoke a real payment provider, or require authentication.
